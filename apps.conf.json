@@ -71,6 +71,12 @@
       "title": "WeRead",
       "name_zh": "微信阅读",
       "url": "https://weread.qq.com/"
+    },
+     {
+      "name": "nclass",
+      "title": "NClass",
+      "name_zh": "牛顿学堂",
+      "url": "https://pc.nclass.cn/"
     }
   ]
 }
